@@ -11,4 +11,8 @@ Our "Code" folder includes 5 Jupyter Notebooks, which we originally run on Googl
 4/ ACL25__Compute_Wasserstein_distances__GPT2_and_Zephyr__anonymized.ipynb <br /> 
 -> compute a direction-aware, scaled Wasserstein distance between two (harmful and harmless) distributions of perplexity ratios. <br /> 
 
+Our "Processed_Data" folder includes saved perplexity ratios for the harmful and harmless subsets of FairPrism, evaluated by fine-tuned GPT-2/Zephyr models.  <br /> 
+
+Our figures
+
 
