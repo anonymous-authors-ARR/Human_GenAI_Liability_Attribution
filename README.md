@@ -13,6 +13,7 @@ Our "Code" folder includes 5 Jupyter Notebooks, which we originally run on Googl
 
 Our "Processed_Data" folder includes saved perplexity ratios for the harmful and harmless subsets of FairPrism, evaluated by both fine-tuned models, GPT-2/Zephyr models.  <br /> 
 
-Our "figures" folder includes plots on the distributions of harmful and harmless perplexity ratios (plotted side by side), as well as the Wasserstein distance between those two distributions. We also plot for both fine-tuned models, GPT-2/Zephyr models. 
+Our "figures" folder includes plots on the distributions of harmful and harmless perplexity ratios (plotted side by side), as well as the Wasserstein distance between those two distributions. We also plot for both fine-tuned models, GPT-2/Zephyr models. <br />
 
+If you have any questions, please feel free to contact anonyn.authors@gmail.com! Thanks for your time!
 
