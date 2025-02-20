@@ -15,5 +15,9 @@ Our "Processed_Data" folder includes saved perplexity ratios for the harmful and
 
 Our "figures" folder includes plots on the distributions of harmful and harmless perplexity ratios (plotted side by side), as well as the Wasserstein distance between those two distributions. We also plot for both fine-tuned models, GPT-2/Zephyr models. <br />
 
+In terms of Raw Data, you may access OpenAssistant easily in the link below, but for FairPrism, please contact FairPrism authors to get their approval and password to access their data.  <br />
+OpenAssistant: https://huggingface.co/datasets/OpenAssistant/oasst1  <br />
+FairPrism: https://github.com/microsoft/FairPrism/blob/main/fairprism_data.zip  <br />
+
 If you have any questions, please feel free to contact anonyn.authors@gmail.com! Thanks for your time!
 
